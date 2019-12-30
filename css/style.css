@@ -1,0 +1,35 @@
+.ourdiv{
+	height: 100px;
+	width: 100px;
+	color: #fff;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+.outerdiv{
+	height: 350px;
+	width: 350px;
+	border: 2px solid #ddd;
+
+}
+img{
+	height: 300px;
+	width: 300px;
+}
+
+/*.innerdivision{
+	height: 200px;
+	width: 200px;
+	background: green;
+	color: #fff;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+.outerdiv{
+	height: 350px;
+	width: 350px;
+	margin: 0 auto;
+	border: 2px solid #ddd;
+
+}*/
